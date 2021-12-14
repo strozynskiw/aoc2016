@@ -1,0 +1,8 @@
+[package]
+name = "day_03"
+version = "0.1.0"
+authors = ["Wojciech Strozynski <strozynskiw@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+md5 = "0.7"
